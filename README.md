@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-GatewayGeo is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://gatewaygeomatics.com/
+GatewayGeo specializes in publishing geospatial information to the Internet using Free and Open Source Software for Geomatics (FOSS4G). It offers consulting, training, and development services around tools such as MapServer, QGIS, GRASS GIS, GDAL, and PostGIS. The company also provides custom solutions for web mapping, spatial data processing, and open-source GIS integration, helping clients leverage open standards and community-driven software for their geospatial needs.
+
+**Areas:** Company · Geospatial · Consulting · OpenSource · FOSS4G
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://gatewaygeomatics.com/)
+- [Documentation](https://docs.qgis.org/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/gatewaygeo/](https://apis.io/providers/gatewaygeo/).
